@@ -8,7 +8,7 @@
         "keycloak",
         "heroku"
     ],
-    "stack": "heroku-22",
+    "stack": "container",
     "repository": "https://github.com/mieckert/keycloak-heroku",
     "logo": "https://www.keycloak.org/resources/images/keycloak_logo_480x108.png",
     "success_url": "/",
